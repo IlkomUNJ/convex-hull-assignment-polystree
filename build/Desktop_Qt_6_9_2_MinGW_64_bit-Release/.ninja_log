@@ -1,0 +1,16 @@
+# ninja log v6
+7	558	7809530610557966	Assignment_Lecture_4_autogen/timestamp	8587882eb0aa9b7e
+7	558	7809530610557966	Assignment_Lecture_4_autogen/mocs_compilation.cpp	8587882eb0aa9b7e
+7	558	7809530610557966	C:/Users/lyst/Downloads/Practice_1_WidgetApp_Copy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/Assignment_Lecture_4_autogen/timestamp	8587882eb0aa9b7e
+7	558	7809530610557966	C:/Users/lyst/Downloads/Practice_1_WidgetApp_Copy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/Assignment_Lecture_4_autogen/mocs_compilation.cpp	8587882eb0aa9b7e
+567	2121	7809530611361209	CMakeFiles/Assignment_Lecture_4.dir/main.cpp.obj	e9d8095a9ed2180d
+565	2136	7809530611326139	CMakeFiles/Assignment_Lecture_4.dir/Assignment_Lecture_4_autogen/mocs_compilation.cpp.obj	1be2e3b85f87dd8e
+570	2166	7809530611381316	CMakeFiles/Assignment_Lecture_4.dir/drawingwindow.cpp.obj	e4a1943b45b77214
+572	2680	7809530611406365	CMakeFiles/Assignment_Lecture_4.dir/drawingcanvas.cpp.obj	497c039664d1fa4
+2680	2772	7809530632479027	Assignment_Lecture_4.exe	c0cd36fff6885852
+8	102	7809534563046416	Assignment_Lecture_4_autogen/timestamp	8587882eb0aa9b7e
+8	102	7809534563046416	Assignment_Lecture_4_autogen/mocs_compilation.cpp	8587882eb0aa9b7e
+8	102	7809534563046416	C:/Users/lyst/Downloads/Practice_1_WidgetApp_Copy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/Assignment_Lecture_4_autogen/timestamp	8587882eb0aa9b7e
+8	102	7809534563046416	C:/Users/lyst/Downloads/Practice_1_WidgetApp_Copy/build/Desktop_Qt_6_9_2_MinGW_64_bit-Release/Assignment_Lecture_4_autogen/mocs_compilation.cpp	8587882eb0aa9b7e
+103	1824	7809534563991423	CMakeFiles/Assignment_Lecture_4.dir/drawingcanvas.cpp.obj	497c039664d1fa4
+1824	1919	7809534581203440	Assignment_Lecture_4.exe	c0cd36fff6885852
